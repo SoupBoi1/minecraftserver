@@ -1,0 +1,30 @@
+[10:31:20] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.3
+[10:31:20] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.18.3
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.11
+[10:31:21] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/opt/minecraft_server/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[10:31:43] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[10:31:49] [main/INFO]: No existing world data, creating new world
+[10:31:54] [main/INFO]: Loaded 1470 recipes
+[10:31:54] [main/INFO]: Loaded 1584 advancements
+[10:31:55] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[10:31:55] [Server thread/INFO]: Loading properties
+[10:31:55] [Server thread/INFO]: Default game type: SURVIVAL
+[10:31:55] [Server thread/INFO]: Generating keypair
+[10:31:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:31:56] [Server thread/INFO]: Preparing level "world"
+[10:31:57] [Server thread/INFO]: Selecting global world spawn...
+[10:32:12] [Server thread/INFO]: Loading 0 persistent chunks...
+[10:32:12] [Server thread/INFO]: Preparing spawn area: 100%
+[10:32:12] [Server thread/INFO]: Time elapsed: 14697 ms
+[10:32:12] [Server thread/INFO]: Done (15.788s)! For help, type "help"
+[10:33:12] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[10:34:01] [User Authenticator #1/INFO]: UUID of player SudiptaHalder is ceb276c7-a46d-4de4-9c54-d1c3e7a48502
+[10:34:17] [Server thread/INFO]: SudiptaHalder[/192.168.4.24:57432] logged in with entity id 1 at (-25.5, 79.0, 24.5)
+[10:34:17] [Server thread/INFO]: SudiptaHalder joined the game
+[10:34:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2980ms or 59 ticks behind
+[10:34:31] [Server thread/INFO]: SudiptaHalder lost connection: Disconnected
+[10:34:31] [Server thread/INFO]: SudiptaHalder left the game
+[10:35:29] [Server thread/INFO]: Server empty for 60 seconds, pausing
