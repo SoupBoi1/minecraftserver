@@ -15,7 +15,7 @@ do
     	update_git=0
     	yes=0
     fi 
-    sleep 6h  #For each iteration, sleep for  6 hours
+    sleep 1h  #For each iteration, sleep for  6 hours
 done
 
 echo "Done"

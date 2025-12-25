@@ -1,7 +1,30 @@
-[14:44:52] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.3
-[14:44:52] [main/INFO]: Loading 4 mods:
+[14:57:34] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.3
+[14:57:35] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.18.3
 	   \-- mixinextras 0.5.0
 	- java 21
 	- minecraft 1.21.11
-[14:44:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/opt/minecraft_server/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[14:57:35] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/opt/minecraft_server/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[14:58:17] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[14:58:28] [main/INFO]: Loaded 1470 recipes
+[14:58:28] [main/INFO]: Loaded 1584 advancements
+[14:58:28] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[14:58:28] [Server thread/INFO]: Loading properties
+[14:58:28] [Server thread/INFO]: Default game type: SURVIVAL
+[14:58:28] [Server thread/INFO]: Generating keypair
+[14:58:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:58:30] [Server thread/INFO]: Preparing level "world"
+[14:58:34] [Server thread/INFO]: Loading 0 persistent chunks...
+[14:58:34] [Server thread/INFO]: Preparing spawn area: 100%
+[14:58:34] [Server thread/INFO]: Time elapsed: 17 ms
+[14:58:34] [Server thread/INFO]: Done (4.866s)! For help, type "help"
+[14:59:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:05:34] [User Authenticator #1/INFO]: UUID of player SudiptaHalder is ceb276c7-a46d-4de4-9c54-d1c3e7a48502
+[15:05:37] [Server thread/INFO]: SudiptaHalder[/192.168.4.127:46860] logged in with entity id 107 at (-25.64963226816249, 63.0, -45.59123015173012)
+[15:05:38] [Server thread/INFO]: SudiptaHalder joined the game
+[15:05:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15:06:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16177ms or 323 ticks behind
+[15:07:58] [Server thread/INFO]: [SudiptaHalder: Gave 1 [Copper Axe] to SudiptaHalder]
+[15:09:05] [Server thread/INFO]: SudiptaHalder lost connection: Disconnected
+[15:09:05] [Server thread/INFO]: SudiptaHalder left the game
+[15:10:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
