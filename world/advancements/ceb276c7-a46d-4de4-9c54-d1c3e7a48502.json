@@ -7,9 +7,28 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-12-25 21:42:19 -0600",
+      "minecraft:beach": "2025-12-25 22:01:25 -0600",
       "minecraft:old_growth_pine_taiga": "2025-12-25 10:34:21 -0600",
+      "minecraft:dark_forest": "2025-12-25 21:24:31 -0600",
+      "minecraft:forest": "2025-12-25 15:37:00 -0600",
+      "minecraft:taiga": "2025-12-25 15:32:53 -0600",
       "minecraft:river": "2025-12-25 11:41:22 -0600",
-      "minecraft:old_growth_spruce_taiga": "2025-12-25 11:42:34 -0600"
+      "minecraft:stony_shore": "2025-12-25 22:01:26 -0600",
+      "minecraft:snowy_plains": "2025-12-25 21:38:15 -0600",
+      "minecraft:lush_caves": "2025-12-25 16:13:06 -0600",
+      "minecraft:snowy_taiga": "2025-12-25 21:34:52 -0600",
+      "minecraft:deep_cold_ocean": "2025-12-25 21:42:01 -0600",
+      "minecraft:old_growth_birch_forest": "2025-12-25 21:49:07 -0600",
+      "minecraft:frozen_ocean": "2025-12-25 21:35:12 -0600",
+      "minecraft:frozen_river": "2025-12-25 21:34:55 -0600",
+      "minecraft:windswept_forest": "2025-12-25 15:33:57 -0600",
+      "minecraft:deep_frozen_ocean": "2025-12-25 21:41:32 -0600",
+      "minecraft:swamp": "2025-12-25 21:54:25 -0600",
+      "minecraft:windswept_hills": "2025-12-25 15:34:53 -0600",
+      "minecraft:old_growth_spruce_taiga": "2025-12-25 11:42:34 -0600",
+      "minecraft:snowy_beach": "2025-12-25 21:35:07 -0600",
+      "minecraft:plains": "2025-12-25 15:37:18 -0600"
     },
     "done": false
   },
@@ -555,8 +574,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-12-25 16:12:52 -0600",
       "minecraft:spider": "2025-12-25 13:07:55 -0600",
-      "minecraft:zombie": "2025-12-25 12:34:55 -0600"
+      "minecraft:zombie": "2025-12-25 12:34:55 -0600",
+      "minecraft:creeper": "2025-12-25 19:37:25 -0600"
     },
     "done": false
   },
@@ -1187,6 +1208,204 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-12-25 13:58:20 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-12-25 15:40:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-12-25 15:40:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-12-25 15:40:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-12-25 15:40:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-12-25 15:40:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-12-25 15:40:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-12-25 15:40:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-12-25 15:40:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-12-25 15:40:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-12-25 15:40:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-12-25 15:44:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-12-25 15:44:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-12-25 15:44:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-12-25 15:44:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-12-25 15:44:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-12-25 15:44:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-12-25 15:44:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-12-25 15:44:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-12-25 15:44:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-12-25 15:44:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-12-25 15:44:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-12-25 21:15:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-25 21:11:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-25 21:11:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-25 21:11:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-12-25 19:34:34 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-25 21:11:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-25 21:11:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-25 21:11:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-25 21:11:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-25 21:11:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-25 21:11:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-12-25 21:11:53 -0600"
     },
     "done": true
   },
